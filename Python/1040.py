@@ -15,4 +15,3 @@ elif 5 <= media <= 6.9:
         print("Aluno reprovado.")
 else:
     print("Aluno reprovado.")
-    #gvfagghgvg
