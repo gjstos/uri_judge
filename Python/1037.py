@@ -17,4 +17,4 @@ if n > 50 and n <= 75:
 if n > 75 and n <= 100:
     print('Intervalo (75,100]')
 if n < 0:
-    print('Fora do intervalo')
+    print('Fora de intervalo')
